@@ -24,3 +24,7 @@ Finally, run the node server locally.
 	npm start
 	
 Now, open the local application on port 8080 at the URL: `http://localhost:3000/`.
+
+## Screenshot
+
+![Screen Shot 2020-10-20 at 5 03 28 PM 3](https://user-images.githubusercontent.com/64044377/96649180-3c6d8f80-12f6-11eb-8edb-2f1e21d67b88.png)
