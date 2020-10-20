@@ -1,8 +1,7 @@
 import React from 'react';
 import SearchName from "./SearchName";
-import SearchDOB from "./SearchDOB";
 
-import "Nav.css";
+import "./Navbar.css";
 
 function Nav() {
     return (
@@ -21,7 +20,6 @@ aria-label="Toggle navigation"
 <div className="collapse navbar-collapse row" id="navbarNav">
     <div className="search-area col-4">
         <SearchName />
-        <SearchDOB />
     </div>
 </div>
 </nav>
