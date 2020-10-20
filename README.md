@@ -11,7 +11,7 @@ Express.js | Axios | React | JavaScript | JQuery | Bootstrap | CSS | HTML
 
 ## Live Demo
 
-The demo of the application can be found [here]().
+The demo of the application can be found [here](https://apopp524.github.io/User-Directory/).
 
 ## Directions
 
